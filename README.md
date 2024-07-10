@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sonali Nayak
 - 👀 I’m interested in Coading.
-- 🌱 I’m currently learning Power BI, Tablue.
+- 🌱 I’m currently learning Power BI.
   
   
 
